@@ -1,6 +1,4 @@
 # E-Commerce-Sales-Customer-Analytics-System
-```markdown
-# E-Commerce Sales & Customer Analytics System
 
 A data analytics project that analyzes e-commerce sales and customer transaction data to identify revenue trends, product performance, customer behavior, and regional business patterns.
 
